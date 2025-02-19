@@ -26,5 +26,7 @@ Preview
 Data Source
 ECI website
 
+[Note: This excludes the data of Surat Constituency]
+
 
 
